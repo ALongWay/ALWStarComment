@@ -1,0 +1,6 @@
+framework module Pods_ALWStarComment_Tests {
+  umbrella header "Pods-ALWStarComment_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
